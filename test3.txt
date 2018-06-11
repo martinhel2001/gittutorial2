@@ -1,0 +1,13 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: FE06-5C5B
+
+ Directorio de C:\Martin\GIT Projects\TrainingGIT
+
+11/06/2018  05:18 p. m.    <DIR>          .
+11/06/2018  05:18 p. m.    <DIR>          ..
+11/06/2018  04:33 p. m.                22 index.html
+11/06/2018  04:33 p. m.               404 test1.txt
+11/06/2018  05:11 p. m.               500 test2.txt
+11/06/2018  05:18 p. m.                 0 test3.txt
+               4 archivos            926 bytes
+               2 dirs  51.338.842.112 bytes libres
